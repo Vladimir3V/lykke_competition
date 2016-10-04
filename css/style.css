@@ -854,6 +854,9 @@ hr.full { margin-left: 0; margin-right: 0; width: 100%; }
 .page h2, .page .h2 { font-size: 40px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; color: #333333; }
 .page h1, .page .h1 { font-size: 50px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.2; color: #333333; margin-bottom: 20px; }
 .page p, .page ul, .page ol { font-size: 18px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: 1.67; color: #3f4d60; margin-bottom: 15px; }
+.page ul li { color: #AB00FF; margin-bottom: 15px; }
+.page ul .li { color: #3f4d60; }
+.page ul + h3, .page ul + h4, .page ul + h2 { margin-top: 45px; }
 .page figcaption { font-size: 16px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: 1.75; color: #3f4d60; }
 .page blockquote { font-size: 22px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: 1.64; color: #3f4d60; }
 .page__title, .page h1.page__title, .page h2.page__title { margin-bottom: 17px; }
